@@ -1,6 +1,7 @@
 # rustpin
 * pinterest client writed on rust with no login 
-<img width="1920" height="1080" alt="Screenshot_2026-10-04_02-17-23" src="https://github.com/user-attachments/assets/aea8ea9a-7697-4fb4-b561-264206bc7872" />
+<img width="963" height="625" alt="Screenshot from 2026-10-04 02-21-30" src="https://github.com/user-attachments/assets/92d5e6f0-76f1-415e-82b0-e08a03ce9e10" />
+
 
 
 ## Features
